@@ -1,0 +1,94 @@
+{
+    "furniture": [
+      {
+        "id": "1",
+        "title": "Kėdė",
+        "type": "valgomojo",
+        "price": 65,
+        "location":{
+            "country": "Lietuva",
+            "city": "Kaunas",
+            "street": "Ašigalio g. 3"
+          },
+          "owner": {
+            "fullname": "Petras Pavainikis",
+            "mobile": "+370 623 55555",
+            "address": "Ašigalio g. 50",
+            "email": "pertras@asigalis.lt"
+          },
+        "imgSrc": "https://www.furnibay.lt/wp-content/uploads/2018/07/madame-bl19-bialy_1.jpeg"
+      },
+      {
+        "id": "2",
+        "title": "Baro kėdė",
+        "type": "baro",
+        "price": 120,
+        "location":{
+            "country": "Estija",
+            "city": "Talinas",
+            "street": "City"
+          },
+          "owner": {
+            "fullname": "Leprekonas",
+            "mobile": "+372 645 77885",
+            "address": "City",
+            "email": "leprekonas@furniture.eu"
+          },
+        "imgSrc": "https://eleganthome.lt/wp-content/uploads/2020/08/Baro-ke%CC%87de%CC%87-PARISIAN-1-1.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Kavos staliukas",
+        "type": "stalas",
+        "price": 250,
+        "location":{
+            "country": "Lietuva",
+            "city": "Klaipėda",
+            "street": "Liepų g. 3"
+          },
+          "owner": {
+            "fullname": "Jonas Vėjelis",
+            "mobile": "+370 623 41258",
+            "address": "Liepų g. 3",
+            "email": "jonas@siaurinisvejas.lt"
+          },
+        "imgSrc": "https://www.mobel.lt/wp-content/uploads/2021/06/venus-s-1.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Kampinė sofa",
+        "type": "kampas",
+        "price": 2020,
+        "location":{
+            "country": "Latvija",
+            "city": "Ryga",
+            "street": "Labs g. 10"
+          },
+          "owner": {
+            "fullname": "Aigars Balzams",
+            "mobile": "+371 688 32784",
+            "address": "Labs g. 10",
+            "email": "aigars@rygasbaldz.lt"
+          },
+        "imgSrc": "https://www.mondo.lt/wp-content/uploads/2020/09/minkstas-kampas-5.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Dvigulė miegamojo lova",
+        "type": "lova",
+        "price": 1650,
+        "location":{
+            "country": "Lietuva",
+            "city": "Vilnius",
+            "street": "Vikingų g. 1"
+          },
+          "owner": {
+            "fullname": "IKEA",
+            "mobile": "+370 655 12345",
+            "address": "Vikingų g. 1",
+            "email": "labas@ikea.lt"
+          },
+        "imgSrc": "https://lovaplius.lt/wp-content/uploads/2017/12/Pilka-dvigule-lova-Bali-1-700x467.jpg"
+      }
+    ]
+}
