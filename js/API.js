@@ -21,8 +21,8 @@ class API {
     // console.error
    //)
   
-   API.deleteFurniture(
-     "1",
-     () => console.log('Ištrinta sėkmingai'),
-     console.error
-   )
+   //API.deleteFurniture(
+    // "1",
+    // () => console.log('Ištrinta sėkmingai'),
+    // console.error
+   //)
