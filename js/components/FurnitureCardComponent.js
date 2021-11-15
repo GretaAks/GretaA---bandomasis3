@@ -6,7 +6,7 @@ class FurnitureCardComponent {
     }
 
     init = () => {
-        const {title,type,price,location,owner,imgSrc} = this.props;
+        const {title,type,price,location,owner,imgSrc,onDelete} = this.props;
         const {country,city,street} = location;
         const {fullname,mobile,address,email} = owner;
 
@@ -41,11 +41,13 @@ class FurnitureCardComponent {
             </ul>
             </div>
         </div>
-    <div class="card-body">
-    <a href="#" class="card-link">Card link</a>
+    <div class="card-body text-center">
+    <button class="btn btn-success">Ištrinti</button>
         </div>
     </div>
         `;
+    const btn = this.htmlElement.querySelector('.btn');
+    btn.addEventListener('click', onDelete);
 
     }
 }
