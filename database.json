@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Kėdė",
-      "type": "valgomojo",
+      "type": "valgomojo kodės",
       "price": 65,
       "location":{
           "country": "Lietuva",
@@ -21,12 +21,12 @@
     {
       "id": "2",
       "title": "Baro kėdė",
-      "type": "baro",
+      "type": "baro kėdės",
       "price": 120,
       "location":{
           "country": "Estija",
           "city": "Talinas",
-          "street": "City"
+          "street": "City str. 54"
         },
         "owner": {
           "fullname": "Leprekonas",
@@ -39,7 +39,7 @@
     {
       "id": "3",
       "title": "Kavos staliukas",
-      "type": "stalas",
+      "type": "tv staliukai",
       "price": 250,
       "location":{
           "country": "Lietuva",
@@ -57,7 +57,7 @@
     {
       "id": "4",
       "title": "Kampinė sofa",
-      "type": "kampas",
+      "type": "kampinės sofos",
       "price": 2020,
       "location":{
           "country": "Latvija",
@@ -75,7 +75,7 @@
     {
       "id": "5",
       "title": "Dvigulė miegamojo lova",
-      "type": "lova",
+      "type": "miegamojo lovos",
       "price": 1650,
       "location":{
           "country": "Lietuva",
